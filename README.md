@@ -18,3 +18,6 @@ Commit A, B, C 都变成了孤儿,
 ---
 
 开始第二轮测试.
+
+Commit D
+New Commit D
