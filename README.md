@@ -25,3 +25,8 @@ New Commit D
 Commit E: Commit D 的 hash 值为 4bba6aa20844b7a855229a7b5065fcc4cdd04f48
 
 Commit F: Commit E 的 hash 值为 e6ff50ff09507ff19764d3bfe91c56e3444d82ba, push 到 remote.
+
+New Commit D, E 的 hash 值分别为
+  - 05aa33bfa8ae55b1fea183ff851116df563909f9
+  - 9552157db740781652b7d475afb0f936f4804c82
+强制 push 到 remote.
