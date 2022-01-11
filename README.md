@@ -21,3 +21,5 @@ Commit A, B, C 都变成了孤儿,
 
 Commit D
 New Commit D
+
+Commit E: Commit D 的 hash 值为 4bba6aa20844b7a855229a7b5065fcc4cdd04f48
