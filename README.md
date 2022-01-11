@@ -30,3 +30,11 @@ New Commit D, E 的 hash 值分别为
   - 05aa33bfa8ae55b1fea183ff851116df563909f9
   - 9552157db740781652b7d475afb0f936f4804c82
 强制 push 到 remote.
+
+# 第二个结论
+
+可以看到, push 到 remote 的
+[Commit D](https://github.com/Complex2-Liu/git-test/commit/4bba6aa20844b7a855229a7b5065fcc4cdd04f48),
+[Commit E](https://github.com/Complex2-Liu/git-test/commit/e6ff50ff09507ff19764d3bfe91c56e3444d82ba)
+确实被 github 记载了, 强制 push 之后依然能在 github 上访问到这两个 Commit.
+今天日期是 2021-01-11, 不知道过多久后在 git server 上的 Commit D 会被垃圾回收.
