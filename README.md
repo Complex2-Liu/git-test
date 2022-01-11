@@ -14,3 +14,7 @@ Commit C: Commit C 的 hash 值为 7c29ec4c5a776c460cda7f50039b2f85a9780832
 Commit A, B, C 都变成了孤儿,
 被 push 到 remote 的是 New Commit A, B 和 C.
 今天日期是 2022-01-11, 不知道过多久后 Commit A 会被垃圾回收.
+
+---
+
+开始第二轮测试.
