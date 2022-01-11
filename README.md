@@ -4,3 +4,5 @@
 
 Commit A
 New Commit A
+
+Commit B: Commit A 的 hash 值为 e451e43fd1d763e2e0d00bd9b011511681bb4e06
